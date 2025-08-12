@@ -39,3 +39,32 @@ This project implements an **end-to-end Brain-Computer Interface (BCI) pipeline*
 ```bash
 git clone https://github.com/Arman-kothariya/BCI_project.git
 cd BCI_project
+
+📂 Project Structure
+bash
+Copy
+Edit
+BCI_project/
+│-- data/                # Raw & preprocessed EEG data
+│-- src/                 # Source code (signal processing, ML models)
+│-- notebooks/           # Jupyter notebooks for experiments
+│-- requirements.txt     # Python dependencies
+│-- README.md            # Documentation
+│-- LICENSE              # License file
+📈 Results
+Achieved 98.83% classification accuracy on test EEG dataset.
+
+Successfully demonstrated control of an external device using live EEG signals.
+
+🎯 Future Improvements
+Integrate deep learning for improved accuracy.
+
+Optimize for low-power embedded devices.
+
+Expand hardware compatibility.
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
+
+
