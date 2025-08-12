@@ -4,17 +4,16 @@ Brain-Computer Interface (BCI) Project — Implementation of a neural signal acq
 
 ---
 
-````markdown
 <!-- ====================================== -->
-<!-- VIBRANT & EYE-CATCHING TOP BANNER -->
+<!-- TOP BANNER (Replace with your GIF later) -->
 <!-- ====================================== -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/1A1B27/FFFFFF?text=🧠+Brain-Computer+Interface+%7C+Decode+Thoughts+→+Control+the+World" alt="BCI Project Vibrant Banner" width="100%" />
+  <img src="YOUR_BANNER_GIF_URL" alt="Brain-Computer Interface Banner" width="100%" />
 </p>
 
-# 🧠 Brain-Computer Interface (BCI) Project  
+# 🧠 Brain-Computer Interface (BCI) Project
 > **Decode thoughts → Control the world.**  
-> Real-time pipeline converting neural activity into actionable commands with **signal processing** + **machine learning**.  
+> Real-time pipeline converting neural activity into actionable commands with **signal processing** + **machine learning**.
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Arman-kothariya/BCI_project?style=for-the-badge" alt="Stars" />
@@ -24,15 +23,9 @@ Brain-Computer Interface (BCI) Project — Implementation of a neural signal acq
 
 ---
 
-<!-- ====================================== -->
-<!-- SLEEK & MINIMAL BANNER -->
-<!-- ====================================== -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x150/0D1117/58A6FF?text=BCI+Project+%7C+Where+Neuroscience+Meets+Code" alt="BCI Project Sleek Banner" width="900" />
-</p>
-
-## 📜 Overview  
+## 📜 Overview
 This project explores the **intersection of neuroscience and AI** — decoding neural signals and translating them into **real-world control actions**.  
+
 It’s designed for:
 - 🎓 **Students** exploring brain-signal processing  
 - 🧪 **Researchers** building experimental BCI systems  
@@ -40,14 +33,7 @@ It’s designed for:
 
 ---
 
-<!-- ====================================== -->
-<!-- SCIENTIFIC & CLEAN BANNER -->
-<!-- ====================================== -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x150/FFFFFF/1A1B27?text=Advanced+BCI+Signal+Processing+Pipeline" alt="BCI Project Clean Banner" width="900" />
-</p>
-
-## 🚀 Features  
+## 🚀 Features
 ✅ EEG Signal Acquisition & Preprocessing  
 ✅ Real-Time Filtering & Noise Reduction  
 ✅ Feature Extraction using Frequency Analysis  
@@ -56,7 +42,7 @@ It’s designed for:
 
 ---
 
-## 🛠 Installation  
+## 🛠 Installation
 ```bash
 # Clone this repository
 git clone https://github.com/Arman-kothariya/BCI_project.git
@@ -66,6 +52,7 @@ cd BCI_project
 
 # Install dependencies
 pip install -r requirements.txt
+
 ````
 
 ---
