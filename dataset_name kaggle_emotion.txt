@@ -1,0 +1,33 @@
+dataset_name: kaggle_emotion
+data_path: datasets/kaggle_eeg/
+format: csv
+sampling_rate: 128
+
+channels:
+  - Fp1
+  - Fp2
+  - F3
+  - F4
+  - C3
+  - C4
+  - P3
+  - P4
+  - O1
+  - O2
+
+label_type: emotion
+label_column: label  # ⚠️ CHANGE THIS if your label column name is different
+
+preprocessing:
+  bandpass: [1, 50]
+  notch_filter: true
+  normalize: true
+
+feature_extraction:
+  method: psd
+
+model:
+  type: svm
+  parameters:
+    C: 1.0
+    kernel: rbf
